@@ -1,9 +1,9 @@
 import React from "react";
-
+import ImageCompressor from "./components/ImageCompressor";
 
 function App() {
   return (
-    <h1>Hello world!</h1>
+    <ImageCompressor />
   );
 }
 
